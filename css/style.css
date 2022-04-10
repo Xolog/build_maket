@@ -6,7 +6,7 @@ html, body {
 /*Header*/
 header {
     background-image: url(/images/985d45a0-d7b6-11e9-aa41-1be24cec0e2d\ 1.png) ;
-    height:800px;
+    height: 900px;
     padding-top: 24px;
 }
 
@@ -44,6 +44,21 @@ header li {
 }
 /*Header*/
 
+/* Мейн */
+
+main {
+    margin: 20px 50px;
+}
+
+/* Блок отзывов */
+
+.reviews {
+
+}
+
+h2 {
+    margin: 0px;
+}
 
 /*footer*/
 
