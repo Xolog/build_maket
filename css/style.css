@@ -163,3 +163,53 @@ footer {
     height: 100%;
 }
 
+/* .objects { 
+    
+}
+*/
+
+.obj_container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.object_card{
+    margin: 0;
+    padding: 0;
+
+    width: 400px;
+    height: 600px;
+    display: flex;
+    flex-direction: column;
+}
+
+.photo_caption{
+    color: white;
+    background-color: dimgrey;
+    height: 50px;
+}
+
+.photo-obj {
+    width: 400px;
+    height: 450px;
+    border:0ch;
+}
+
+.p-line{
+    line-height: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+.h2-line{
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+
+}
+
+.sal-line{
+    display: flex;
+    justify-content: space-around;
+}
+
